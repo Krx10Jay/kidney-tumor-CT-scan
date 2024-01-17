@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: kidney-tumor-CT-scan
+Version: 1.0.0
+Summary: A small python package using CNN
+Home-page: https://github.com/krx10jay/kidney-tumor-CT-scan
+Author: krx10jay
+Author-email: jamescchidiebere@gmail.com
+Project-URL: Bug Tracker, https://github.com/krx10jay/kidney-tumor-CT-scan/issues
+
+# kidney-tumor-CT-scan
+creating a new repository from scratch
